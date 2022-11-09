@@ -28,7 +28,9 @@ Tambien se sabe que la empresa "RandomCameraReviews" planea distribuir mayorment
 ## Arquitectura
 
 ### Diagramas
-poner diagramas de secuencia, uml, etc
+poner diagramas de secuencia, uml, etc  
+Plataforma para diagramar: https://www.diagrams.net/
+https://sequencediagram.org/
 
 ### Modelo de datos
 Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
